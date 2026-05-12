@@ -18,6 +18,7 @@ body {
     align-items: center;
     border: 1px solid #cfd447;
     gap: 5px;
+    box-shadow: 0 0 15px rgba(207, 212, 71, 0.5), 0 0 5px rgba(207, 212, 71, 0.3);
 }
 
 .title {
