@@ -1,0 +1,24 @@
+
+Searched hero: Visage
+Hero found in database: Yes
+	attr: Intelligence
+	roles: ['Support', 'Nuker', 'Durable', 'Pusher']
+	winrate: 53.2%
+	complexity: 3
+Visited Dotabuff: Yes
+Checked at: 2026-04-16 19:22:47
+
+Searched hero: Anti-mage
+Hero found in database: No
+	data: N/A
+Visited Dotabuff: No
+Checked at: 2026-04-16 19:23:13
+
+Searched hero: Anti-Mage
+Hero found in database: Yes
+	attr: Agility
+	roles: ['Carry', 'Escape', 'Nuker']
+	winrate: 50.4%
+	complexity: 1
+Visited Dotabuff: Yes
+Checked at: 2026-04-16 19:23:31
