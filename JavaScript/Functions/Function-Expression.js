@@ -34,3 +34,32 @@ const functionPassenger = greet;
 const resultPassenger = greet(); 
 
 console.log(resultPassenger); // Logs: "Greeting complete"
+
+// Copying a function to another variable
+let age = prompt("How old are you?", 18);
+
+const welcome;
+
+if (age > 18) {
+
+    welcome = function(){
+        alert("Hello!");
+    };
+} else {
+
+    welcome = function() {
+        alert("Greetings!");
+    };
+}
+
+welcome(); 
+
+// Same code with ternary operator
+let age = prompt("How many old are you?", 18);
+
+let welcome = (age > 18) ?
+    function() { alert("Hello!"); } :
+    function() { alert("Hello!"); };
+    
+welcome();
+
