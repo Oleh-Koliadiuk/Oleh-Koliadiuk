@@ -7,7 +7,7 @@ from aiogram.filters import Command
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
 
 
-API_TOKEN = '8688249657:AAEarmF-lSEOnmS4WRAm_soNQ_c4FlAStWU'
+API_TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 
