@@ -1,0 +1,36 @@
+About Python: Architectural Concept & Engine Logic
+
+1. The System & Runtime
+- Paradigm: Object-oriented, high-level, interpreted, and multi-purpose language.
+- Runtime: Executing via CPython (the standard Python interpreter written in C). It reads 
+  your code line by line, compiles it into bytecode (.pyc), and runs it on the Python Virtual Machine (PVM).
+
+2. Global VS Code Workflow Optimization
+- Language Switch: Coding entirely in English to maintain maximum execution speed 
+  on the keyboard and avoid shifting layouts.
+
+3. Python vs JavaScript: Paradigm Shift
+- Architecture: Python relies on clean, semantic indentation (tabs or spaces) to define 
+  code blocks instead of curly braces {}. Clean look, strict rules.
+- Strictness: Variables are created implicitly the moment you assign a value (no 'let' or 'const'). 
+- Output: Simple and clean 'print()' instead of 'console.log()'.
+
+4. The Core Truth About Memory (Variables & Objects)
+- Everything is an Object: In Python, strings, numbers, functions, and lists are all objects in memory.
+- Variables are Labels: A variable in Python is NOT a box containing data. It is just a nametag (pointer) 
+  stuck onto an object in memory.
+- Mutability (The Big Rule):
+  * Immutable (Integers, Strings, Tuples): Cannot be changed in place. If you modify them, Python creates 
+    a completely new object elsewhere.
+  * Mutable (Lists, Dicts, Sets): Can be changed directly inside their memory location.
+
+5. Cloning Strategies (Copying Lists and Dicts)
+- Shallow Copy (list.copy() / dict.copy() / [:]):
+  * Creates a new collection, but if there are nested lists/dicts inside, it just copies references 
+    to those internal objects.
+- Deep Copy (import copy -> copy.deepcopy(obj)):
+  * Recursively clones absolutely every layer, completely disconnecting the new object from the original.
+
+6. Relevant Roadmap
+- Current focus: Writing clean automation scripts, Telegram bots, and practicing core syntax.
+- Goal: Master object structures and script architecture before combining it with backend development.
