@@ -1,0 +1,33 @@
+body {
+    background-color: #1a1a1a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.Main {
+    background-color: #1a1a1a;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 0;
+    width: 300px;
+    border: 1px solid white;
+    border-color: white;
+    border-radius: 12px;
+    box-shadow:  0 0 15px rgba(255, 255, 255, 0.4);
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration:underline
+}
