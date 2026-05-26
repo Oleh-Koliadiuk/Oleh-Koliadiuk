@@ -31,7 +31,6 @@ while (true) {
 
     if (Number(userRocket) > 5) {
         alert("We supporting only 5 Rockets.");
-        window.location.href = "https://google.com";
         continue;
     }
 
