@@ -1,4 +1,4 @@
-const userName = "Oleg Koliadiuk";
+const userName = "Oleh Koliadiuk";
 const gpuModel = "RTX 4050";
 const isGamingLaptop = true;
 

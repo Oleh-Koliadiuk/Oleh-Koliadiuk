@@ -1,4 +1,4 @@
-# Hi there, I'm Oleg! 👋
+# Hi there, I'm Oleh! 👋
 
 I am a 14-year-old student from Rivne, Ukraine (8th grade). Currently, I am deeply focused on learning programming and building my technical foundation.
 

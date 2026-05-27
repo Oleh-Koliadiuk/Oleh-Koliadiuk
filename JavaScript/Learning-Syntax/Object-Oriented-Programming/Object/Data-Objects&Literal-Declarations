@@ -1,14 +1,14 @@
 // Data Objects
-const olegKoliadiukConst = {
-    name: "OlegKoliadiuk",
+const OlehKoliadiukConst = {
+    name: "OlehKoliadiuk",
     age: 14,
     dateOfBirth: "29_02_2012",
     country: "Ukraine",
     city: "Rivne"
 };
 
-let olegKoliadiukLet = {
-    name: "OlegKoliadiuk",
+let olehKoliadiukLet = {
+    name: "OlehKoliadiuk",
     age: 14,
     dateOfBirth: "29_02_2012",
     country: "Ukraine",
