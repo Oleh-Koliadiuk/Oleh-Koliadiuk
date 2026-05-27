@@ -68,7 +68,6 @@ const launcher = {
             const randomY = -400 - (Math.random() * 150);
             const randomRotate = (Math.random() - 0.5) * 45;
 
-            // Передаємо змінні в CSS
             rocket.style.setProperty('--x', `${randomX}px`);
             rocket.style.setProperty('--y', `${randomY}px`);
             rocket.style.setProperty('--r', `${randomRotate}deg`);
