@@ -54,7 +54,7 @@ console.log("\nUsing Object.entries() (Immutability):");
 const updatedUser = Object.fromEntries(
   Object.entries(user).map(([key, value]) => {
     return [key, typeof value === "string" ? value.toUpperCase() : value];
-  }),
+  })
 );
 
 console.log("New transformed object:", updatedUser);

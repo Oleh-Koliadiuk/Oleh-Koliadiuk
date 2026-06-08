@@ -39,9 +39,7 @@ alert(userEmpty.address ? userEmpty.address.street : undefined);
 
 // Checking deeply nested properties using the old logical AND (&&) approach
 alert(
-  userEmpty.address &&
-    userEmpty.address.street &&
-    userEmpty.address.street.name,
+  userEmpty.address && userEmpty.address.street && userEmpty.address.street.name
 );
 
 // Clean and modern property checking using optional chaining (?.)

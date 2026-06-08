@@ -62,7 +62,7 @@ ask(
   },
   function () {
     alert("You canceled.");
-  },
+  }
 );
 
 // Function Formats (Declaration, Expression, and Arrow Basics)

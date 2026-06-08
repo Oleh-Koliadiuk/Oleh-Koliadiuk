@@ -35,7 +35,7 @@ assignCloneUser.city = "Kyiv";
 
 // Deep Cloning
 let nestedUser = {
-  name: "Oleg",
+  name: "Oleh",
   age: 22,
   sizes: {
     height: 182,

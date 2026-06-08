@@ -16,7 +16,7 @@ let family = marry(
   },
   {
     name: "Anna",
-  },
+  }
 );
 
 delete family.father;

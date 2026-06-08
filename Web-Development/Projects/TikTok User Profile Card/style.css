@@ -1,38 +1,37 @@
 body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
 }
 
-
-
-header {    
-    background-color: #ff4e00;
-    width: 85%;
-    max-width: 500px;
-    margin:  25px auto 0;
-    border: 1px solid #ff3e00;
-    border-radius: 12px;
-    text-align: center;
-    padding: 15px 30px;
-    color: #ffffff;
-    text-shadow: 2px 0px 0px #ff3e00,
+header {
+  background-color: #ff4e00;
+  width: 85%;
+  max-width: 500px;
+  margin: 25px auto 0;
+  border: 1px solid #ff3e00;
+  border-radius: 12px;
+  text-align: center;
+  padding: 15px 30px;
+  color: #ffffff;
+  text-shadow:
+    2px 0px 0px #ff3e00,
     3px 2px 4px #ffffff;
-    transition: all 1s ease;
+  transition: all 1s ease;
 }
 
 header:hover {
-    transform: scale(1.10);
+  transform: scale(1.1);
 }
 
 header:active {
-    transform: scale(0.90)
+  transform: scale(0.9);
 }
 
 .mmr-badge {
-    font-weight: bold;
-    font-size: 14px;
-    font-family: monospace;
+  font-weight: bold;
+  font-size: 14px;
+  font-family: monospace;
 }

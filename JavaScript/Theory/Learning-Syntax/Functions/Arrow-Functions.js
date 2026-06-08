@@ -35,5 +35,5 @@ function ask(question, yes, no) {
 ask(
   "You agree?",
   () => alert("You agreed."),
-  () => alert("You cancel."),
+  () => alert("You cancel.")
 );
