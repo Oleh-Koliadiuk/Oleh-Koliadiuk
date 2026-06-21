@@ -1,3 +1,5 @@
+const { cloneElement } = require("react");
+
 // I use // to show the beginning and end of the program 
 let UserName = prompt( 'Whats your name?' , 'Write your name here.' ); 
 alert( 'Hello, ' + ' ' + UserName + '!' ); 
@@ -365,6 +367,27 @@ if (n < 1) {
     alert( `We dont support ${n}, use normal number.` ); 
 } else { 
     alert(pow(x, n)); 
-}
+};
 
-
+const Developer = {
+    id: "user_84920",
+    profile: {
+        firstName: "Oleh",
+        lastName: "Koliadiuk",
+        age: 14,
+    },
+    location: {
+        country: "Ukraine",
+        city: "Rivne",
+        timezone: "EET",
+    },
+    preferences: {
+        theme: "dark",
+        colors: ["White", "Black", "Orange"],
+        activities: ["Coding", "Basketball"]
+    },
+    metrics: {
+        createdAt: "2026-03-29T10:00:00Z",
+        lastActive: "2026-06-11T14:15:00Z"
+    }
+};
