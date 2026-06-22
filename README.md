@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="./core-assets/banner-gemini.png" alt="Profile Banner" width="100%">
-</p>
-
----
-
 ## <p align="center">💻 About Me</p>
 
 <p align="center">
