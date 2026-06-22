@@ -6,13 +6,14 @@
 
 ## <p align="center">💻 About Me</p>
 
-Hi! I'm Oleh, a 14-year-old student and developer from Rivne, Ukraine.
-Currently, I am deeply focused on expanding my programming skills, mastering technical foundations, and learning modern web development.
-
-I work with **JavaScript** and **Python**, striving to write clean, efficient, and well-structured code. I enjoy building practical tools, exploring software architecture, and breaking down how code works under the hood.
+<p align="center">
+  Hi! I'm Oleh, a 14-year-old student and developer from Rivne, Ukraine.<br>
+  Currently deeply focused on mastering technical foundations and modern web development.<br>
+  Striving to write clean, efficient, and well-structured code under the hood.
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-242424?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-242424?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-242424?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-242424?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -22,28 +23,11 @@ I work with **JavaScript** and **Python**, striving to write clean, efficient, a
 
 ## <p align="center">📽️ Featured Projects</p>
 
-<ul>
-  <li>
-    <code>💻 Generate Quotes</code> — Code repository for a dynamic quote generator powered by a structured array database.
-    <br>
-    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" /> 
-    <img src="https://img.shields.io/badge/Stack-JavaScript%20%7C%20JSON-blue?style=flat-square" />
-  </li>
-  <br>
-  <li>
-    <code>🖥️ To Do List</code> — A clean and functional to-do list application for managing daily tasks and productivity.
-    <br>
-    <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" /> 
-    <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-blue?style=flat-square" />
-  </li>
-  <br>
-  <li>
-    <code>🎮 CyberDev Clicker</code> — Strategy clicker game with progressive upgrade pricing for active clicks and passive AI bots.
-    <br>
-    <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" /> 
-    <img src="https://img.shields.io/badge/Stack-Python-blue?style=flat-square" />
-  </li>
-</ul>
+<p align="center">
+  <code>💻 Generate Quotes</code> — Dynamic quote generator powered by a structured array database.<br>
+  <code>🖥️ To Do List</code> — Clean and functional application for managing daily tasks and productivity.<br>
+  <code>🎮 CyberDev Clicker</code> — Strategy clicker game with progressive upgrade pricing and passive AI bots.
+</p>
 
 ---
 
