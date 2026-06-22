@@ -18,9 +18,9 @@
 ## <p align="center">📽️ Featured Projects</p>
 
 <p align="center">
-  <a href="https://github.com/Oleh-Koliadiuk/Generate-Quotes" style="text-decoration: none; color: #ffffff;"><code>💻 Generate Quotes</code></a> — Dynamic quote generator powered by a structured array database.<br><br>
-  <a href="https://github.com/Oleh-Koliadiuk/To-Do-List" style="text-decoration: none; color: #ffffff;"><code>🖥️ To Do List</code></a> — Clean and functional application for managing daily tasks and productivity.<br><br>
-  <a href="https://github.com/Oleh-Koliadiuk/Cyber-Dev-Clicker" style="text-decoration: none; color: #ffffff;"><code>🎮 CyberDev Clicker</code></a> — Strategy clicker game with progressive upgrade pricing and passive AI bots.
+  <code><a href="https://github.com/Oleh-Koliadiuk/Generate-Quotes" style="color: inherit; text-decoration: none;">💻 Generate Quotes</a></code> — Dynamic quote generator powered by a structured array database.<br><br>
+  <code><a href="https://github.com/Oleh-Koliadiuk/To-Do-List" style="color: inherit; text-decoration: none;">🖥️ To Do List</a></code> — Clean and functional application for managing daily tasks and productivity.<br><br>
+  <code><a href="https://github.com/Oleh-Koliadiuk/Cyber-Dev-Clicker" style="color: inherit; text-decoration: none;">🎮 CyberDev Clicker</a></code> — Strategy clicker game with progressive upgrade pricing and passive AI bots.
 </p>
 
 ---
