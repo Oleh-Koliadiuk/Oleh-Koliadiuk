@@ -18,9 +18,9 @@
 ## <p align="center">📽️ Featured Projects</p>
 
 <p align="center">
-  <code>💻 Generate Quotes</code> — Dynamic quote generator powered by a structured array database.<br>
-  <code>🖥️ To Do List</code> — Clean and functional application for managing daily tasks and productivity.<br>
-  <code>🎮 CyberDev Clicker</code> — Strategy clicker game with progressive upgrade pricing and passive AI bots.
+  <a href="https://github.com/Oleh-Koliadiuk/Generate-Quotes" style="text-decoration: none; color: #ffffff;"><code>💻 Generate Quotes</code></a> — Dynamic quote generator powered by a structured array database.<br><br>
+  <a href="https://github.com/Oleh-Koliadiuk/To-Do-List" style="text-decoration: none; color: #ffffff;"><code>🖥️ To Do List</code></a> — Clean and functional application for managing daily tasks and productivity.<br><br>
+  <a href="https://github.com/Oleh-Koliadiuk/Cyber-Dev-Clicker" style="text-decoration: none; color: #ffffff;"><code>🎮 CyberDev Clicker</code></a> — Strategy clicker game with progressive upgrade pricing and passive AI bots.
 </p>
 
 ---
@@ -40,5 +40,5 @@
 </p>
 
 <p align="center">
-  <sub><i>推 "Code is never finished. It only becomes slightly less terrible over time."</i></sub>
+  <sub><i>"Code is never finished. It only becomes slightly less terrible over time."</i></sub>
 </p>
