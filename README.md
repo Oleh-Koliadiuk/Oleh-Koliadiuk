@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-242424?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-242424?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-242424?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/SQLite-242424?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/DB_Browser_for_SQLite-242424?style=for-the-badge&logo=sqlite&logoColor=white" alt="DB Browser for SQLite" />
 </p>
@@ -34,10 +35,10 @@
   <a href="mailto:olegkoliadiuk@icloud.com">
     <img src="https://img.shields.io/badge/Gmail-242424?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://t.me/Oleh_Koliadiuk" target="_blank">
+  <a href="https://t.me/kanozawa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-242424?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://www.tiktok.com/@weziqk" target="_blank">
+  <a href="https://www.tiktok.com/@umouv" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-242424?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
 </p>
