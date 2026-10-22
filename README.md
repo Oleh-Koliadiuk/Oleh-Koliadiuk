@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-242424?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-242424?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQLite-242424?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/DB_Browser_for_SQLite-242424?style=for-the-badge&logo=sqlite&logoColor=white" alt="DB Browser for SQLite" />
 </p>
 
 ---
@@ -18,6 +20,7 @@
 ## <p align="center">📽️ Featured Projects</p>
 
 <p align="center">
+  <a href="https://github.com/Oleh-Koliadiuk/After-Credits"><kbd>🎬 After-Credits</kbd></a> — Personal anime archive application for tracking watch history, ratings, and custom notes.<br><br>
   <a href="https://github.com/Oleh-Koliadiuk/Generate-Quotes"><kbd>💻 Generate Quotes</kbd></a> — Dynamic quote generator powered by a structured array database.<br><br>
   <a href="https://github.com/Oleh-Koliadiuk/To-Do-List"><kbd>🖥️ To Do List</kbd></a> — Clean and functional application for managing daily tasks and productivity.<br><br>
   <a href="https://github.com/Oleh-Koliadiuk/Cyber-Dev-Clicker"><kbd>🎮 CyberDev Clicker</kbd></a> — Strategy clicker game with progressive upgrade pricing and passive AI bots.
