@@ -22,9 +22,9 @@
 
 <p align="center">
   <a href="https://github.com/Oleh-Koliadiuk/After-Credits"><kbd>🎬 After-Credits</kbd></a> — Personal anime archive application for tracking watch history, ratings, and custom notes.<br><br>
-  <a href="https://github.com/Oleh-Koliadiuk/Generate-Quotes"><kbd>💻 Generate Quotes</kbd></a> — Dynamic quote generator powered by a structured array database.<br><br>
-  <a href="https://github.com/Oleh-Koliadiuk/To-Do-List"><kbd>🖥️ To Do List</kbd></a> — Clean and functional application for managing daily tasks and productivity.<br><br>
-  <a href="https://github.com/Oleh-Koliadiuk/Cyber-Dev-Clicker"><kbd>🎮 CyberDev Clicker</kbd></a> — Strategy clicker game with progressive upgrade pricing and passive AI bots.
+  <a href="https://github.com/Oleh-Koliadiuk/Auto-Shorts-Generator"><kbd>🎬 Auto Shorts & Reels Generator</kbd></a> — Automated Python CLI pipeline for generating short-form vertical videos with AI subtitling.<br><br>
+  <a href="https://github.com/Oleh-Koliadiuk/Personal-Portfolio-Remake"><kbd>🌐 Personal Portfolio Remake</kbd></a> — Refreshed version of personal portfolio with cleaner design and smooth interactions.<br><br>
+  <a href="https://github.com/Oleh-Koliadiuk/Personal-Portfolio"><kbd>💼 Personal Portfolio</kbd></a> — Personal portfolio website showcasing projects, technical stack, and web development experience.
 </p>
 
 ---
