@@ -5,6 +5,7 @@ This repository is a special config used to power my GitHub profile page. It con
 ## 🛠️ What's Inside:
 
 - `README.md` (in root) — Main profile overview with text, tech stack badges, and social links.
+- `japan_anime.jpg` - Banner for the main README.md.
 - `.gitignore` — System file to ignore unnecessary local tracks (like `.DS_Store` or cache).
 - `profile-spec/` — This directory, containing documentation about the repository itself.
 
