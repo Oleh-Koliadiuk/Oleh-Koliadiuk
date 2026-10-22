@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="japan_anime_city.jpg" alt="Header Banner" width="100%" />
+</p>
+
 ## <p align="center">💻 About Me</p>
 
 <p align="center">
