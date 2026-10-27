@@ -1,53 +1,65 @@
 <p align="center">
-  <img src="japan_anime_city.jpg" alt="Header Banner" width="100%" />
+  <img src="chocola-banner.gif" alt="Header Banner" width="100%" />
 </p>
 
-## <p align="center">💻 About Me</p>
+<h1 align="center">
+  <a href="https://on.soundcloud.com/kEJq9YdybG3XxI21In" target="_blank" style="color: inherit; text-decoration: none;">Front-End & Full-Stack Developer</a>
+</h1>
 
 <p align="center">
-  Hi! I'm Oleh, a 14-year-old student and developer from Rivne, Ukraine.<br>
-  Currently deeply focused on mastering technical foundations and modern web development.<br>
-  Striving to write clean, efficient, and well-structured code under the hood.
+  <i>Building modern web applications with a focus on clean architecture and minimal design.</i>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-242424?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-242424?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-242424?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-242424?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/SQLite-242424?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/DB_Browser_for_SQLite-242424?style=for-the-badge&logo=sqlite&logoColor=white" alt="DB Browser for SQLite" />
-</p>
+<br>
 
----
+<h2 align="center">About Me</h2>
 
-## <p align="center">📽️ Featured Projects</p>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      Hey, I'm Oleh. I'm a 14-year-old developer based in Rivne, Ukraine.<br><br>
+      I spend my time building full-stack pet projects, designing clean user interfaces, and sharpening my core programming foundations.<br><br>
+      Currently focused on JavaScript, Python, and modern web frameworks, working towards writing efficient, maintainable code.
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="chocola-face.gif" alt="Oleh's Photo" width="100%" style="border-radius: 10px; filter: brightness(0.85) contrast(1.1);" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/Oleh-Koliadiuk/After-Credits"><kbd>🎬 After-Credits</kbd></a> — Personal anime archive application for tracking watch history, ratings, and custom notes.<br><br>
-  <a href="https://github.com/Oleh-Koliadiuk/NutriDay"><kbd>🥗 NutriDay</kbd></a> — Simple nutrition tracker for logging meals, monitoring daily calories and macros, and discovering AI-generated recipes.<br><br>
-  <a href="https://github.com/Oleh-Koliadiuk/Auto-Shorts-Generator"><kbd>🎬 Auto Shorts & Reels Generator</kbd></a> — Automated Python CLI pipeline for generating short-form vertical videos with AI subtitling.<br><br>
-  <a href="https://github.com/Oleh-Koliadiuk/Personal-Portfolio-Remake"><kbd>🌐 Personal Portfolio Remake</kbd></a> — Refreshed version of personal portfolio with cleaner design and smooth interactions.<br><br>
-  <a href="https://github.com/Oleh-Koliadiuk/Personal-Portfolio"><kbd>💼 Personal Portfolio</kbd></a> — Personal portfolio website showcasing projects, technical stack, and web development experience.
-</p>
+<br>
 
----
-
-## <p align="center">📇 Contact Me</p>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <a href="mailto:olegkoliadiuk@icloud.com">
-    <img src="https://img.shields.io/badge/Gmail-242424?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://t.me/kanozawa" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-242424?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://www.tiktok.com/@umouv" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-242424?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,py,js,html,css,tailwind,sqlite,git,github" alt="Tech Stack" />
   </a>
 </p>
 
+<br>
+
+<h2 align="center">Featured Projects</h2>
+
 <p align="center">
-  <sub><i>"Code is never finished. It only becomes slightly less terrible over time."</i></sub>
+  <a href="https://github.com/Oleh-Koliadiuk/After-Credits"><kbd>After-Credits</kbd></a> — Personal anime archive web application to track watch history, rate series, and keep custom notes.<br><br>
+  <a href="https://github.com/Oleh-Koliadiuk/NutriDay"><kbd>NutriDay</kbd></a> — Lightweight nutrition tracker for logging daily meals, monitoring macros, and generating AI recipes.<br><br>
+  <a href="https://github.com/Oleh-Koliadiuk/Auto-Shorts-Generator"><kbd>Auto Shorts & Reels Generator</kbd></a> — Automated Python CLI pipeline for generating short-form vertical video content with AI subtitling.<br><br>
+  <a href="https://github.com/Oleh-Koliadiuk/Personal-Portfolio-Remake"><kbd>Personal Portfolio Remake</kbd></a> — Modern portfolio redesign focused on minimal layout, subtle animations, and smooth visual experience.<br><br>
+  <a href="https://github.com/Oleh-Koliadiuk/Personal-Portfolio"><kbd>Personal Portfolio</kbd></a> — Original version of my portfolio site showcasing initial web projects and technical skills.
 </p>
+
+<br>
+
+<h2 align="center">GitHub Stats</h2>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Oleh-Koliadiuk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleh-Koliadiuk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
