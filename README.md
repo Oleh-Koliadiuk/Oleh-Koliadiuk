@@ -18,11 +18,19 @@
 
 </div>
 
-<img src="chocola-face.gif" alt="Chocola Face" width="35%" align="right">
+<img src="chocola-face.gif" alt="Chocola Face" width="32%" align="right">
 
-Hey, I'm Oleh. I'm a 14-year-old developer based in Rivne, Ukraine.<br><br>
-I spend my time building full-stack pet projects, designing clean user interfaces, and sharpening my programming foundations.<br><br>
-Currently focused on JavaScript, Python, and modern web frameworks.
+<p align="left">
+  Hey, I'm Oleh. I'm a 14-year-old developer based in Rivne, Ukraine.
+</p>
+
+<p align="left">
+  I spend my time building full-stack pet projects, designing clean user interfaces, and sharpening my programming foundations.
+</p>
+
+<p align="left">
+  Currently focused on JavaScript, Python, and modern web frameworks, working towards writing efficient, maintainable code.
+</p>
 
 <br clear="right">
 
