@@ -2,7 +2,9 @@
   <img src="chocola-banner.gif" alt="Header Banner" width="100%" />
 </p>
 
-<p align="center">Front-End & Full-Stack Developer</p>
+<p align="center">
+  Front-End & Full-Stack Developer
+</p>
 
 <p align="center">
   <i>Building modern web applications with a focus on clean architecture and minimal design.</i>
@@ -10,24 +12,32 @@
 
 <br>
 
-<p align="center" style="font-size: 1.5em; font-weight: bold;">About Me</p>
+<div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%;">
-  <tr>
-    <td width="65%" valign="top" style="border: none; padding-right: 20px;">
+## About Me
+
+</div>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td width="65%" valign="top" style="border: none; background: transparent; padding-right: 20px;">
       Hey, I'm Oleh. I'm a 14-year-old developer based in Rivne, Ukraine.<br><br>
       I spend my time building full-stack pet projects, designing clean user interfaces, and sharpening my core programming foundations.<br><br>
       Currently focused on JavaScript, Python, and modern web frameworks, working towards writing efficient, maintainable code.
     </td>
-    <td width="35%" align="center" valign="middle" style="border: none;">
-      <img src="chocola-face.gif" alt="Chocola Face" width="100%"/>
+    <td width="35%" align="center" valign="middle" style="border: none; background: transparent;">
+      <img src="chocola-face.gif" alt="Chocola Face" width="100%" style="border-radius: 10px; filter: brightness(0.85) contrast(1.1);" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<p align="center" style="font-size: 1.5em; font-weight: bold;">Tech Stack</p>
+<div align="center">
+
+## Tech Stack
+
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,7 +47,11 @@
 
 <br>
 
-<p align="center" style="font-size: 1.5em; font-weight: bold;">Featured Projects</p>
+<div align="center">
+
+## Featured Projects
+
+</div>
 
 <p align="center">
   <a href="https://github.com/Oleh-Koliadiuk/After-Credits"><kbd>After-Credits</kbd></a> — Personal anime archive web application to track watch history, rate series, and keep custom notes.<br><br>
@@ -49,10 +63,14 @@
 
 <br>
 
-<p align="center" style="font-size: 1.5em; font-weight: bold;">GitHub Stats</p>
+<div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: none;">
-  <tr>
+## GitHub Stats
+
+</div>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%;">
+  <tr style="border: none;">
     <td width="50%" align="center" valign="top" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=Oleh-Koliadiuk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub Stats" />
     </td>
