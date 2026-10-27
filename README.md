@@ -18,14 +18,14 @@
 
 </div>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td width="65%" valign="top" style="border: none; background: transparent; padding-right: 20px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse !important; width: 100%; background: transparent;">
+  <tr style="border: none !important; background: transparent;">
+    <td width="65%" valign="top" style="border: none !important; background: transparent; padding-right: 20px;">
       Hey, I'm Oleh. I'm a 14-year-old developer based in Rivne, Ukraine.<br><br>
       I spend my time building full-stack pet projects, designing clean user interfaces, and sharpening my core programming foundations.<br><br>
       Currently focused on JavaScript, Python, and modern web frameworks, working towards writing efficient, maintainable code.
     </td>
-    <td width="35%" align="center" valign="middle" style="border: none; background: transparent;">
+    <td width="35%" align="center" valign="middle" style="border: none !important; background: transparent;">
       <img src="chocola-face.gif" alt="Chocola Face" width="100%" style="border-radius: 10px; filter: brightness(0.85) contrast(1.1);" />
     </td>
   </tr>
@@ -69,12 +69,12 @@
 
 </div>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%;">
-  <tr style="border: none;">
-    <td width="50%" align="center" valign="top" style="border: none;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse !important; width: 100%;">
+  <tr style="border: none !important;">
+    <td width="50%" align="center" valign="top" style="border: none !important;">
       <img src="https://github-readme-stats.vercel.app/api?username=Oleh-Koliadiuk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
+    <td width="50%" align="center" valign="top" style="border: none !important;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleh-Koliadiuk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="100%" alt="Top Languages" />
     </td>
   </tr>
