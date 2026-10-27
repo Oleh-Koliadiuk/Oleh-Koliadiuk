@@ -2,9 +2,9 @@
   <img src="chocola-banner.gif" alt="Header Banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <a href="https://on.soundcloud.com/kEJq9YdybG3XxI21In" target="_blank" style="color: inherit; text-decoration: none;">Front-End & Full-Stack Developer</a>
-</h1>
+<p align="center">
+  <a href="https://on.soundcloud.com/kEJq9YdybG3XxI21In" target="_blank" style="color: #888888; text-decoration: none; font-size: 2em; font-weight: bold;">Front-End & Full-Stack Developer</a>
+</p>
 
 <p align="center">
   <i>Building modern web applications with a focus on clean architecture and minimal design.</i>
@@ -12,9 +12,9 @@
 
 <br>
 
-<h2 align="center">About Me</h2>
+<p align="center" style="font-size: 1.5em; font-weight: bold;">About Me</p>
 
-<table>
+<table border="0">
   <tr>
     <td width="65%" valign="top">
       Hey, I'm Oleh. I'm a 14-year-old developer based in Rivne, Ukraine.<br><br>
@@ -22,14 +22,14 @@
       Currently focused on JavaScript, Python, and modern web frameworks, working towards writing efficient, maintainable code.
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="chocola-face.gif" alt="Oleh's Photo" width="100%" style="border-radius: 10px; filter: brightness(0.85) contrast(1.1);" />
+      <img src="chocola-face.gif" alt="Chocola Face" width="100%" style="border-radius: 10px; filter: brightness(0.85) contrast(1.1);" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<h2 align="center">Tech Stack</h2>
+<p align="center" style="font-size: 1.5em; font-weight: bold;">Tech Stack</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,7 +39,7 @@
 
 <br>
 
-<h2 align="center">Featured Projects</h2>
+<p align="center" style="font-size: 1.5em; font-weight: bold;">Featured Projects</p>
 
 <p align="center">
   <a href="https://github.com/Oleh-Koliadiuk/After-Credits"><kbd>After-Credits</kbd></a> — Personal anime archive web application to track watch history, rate series, and keep custom notes.<br><br>
@@ -51,7 +51,7 @@
 
 <br>
 
-<h2 align="center">GitHub Stats</h2>
+<p align="center" style="font-size: 1.5em; font-weight: bold;">GitHub Stats</p>
 
 <table border="0" width="100%">
   <tr>
