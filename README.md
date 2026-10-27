@@ -2,14 +2,6 @@
   <img src="chocola-banner.gif" alt="Header Banner" width="100%" />
 </p>
 
-<p align="center">
-  Front-End & Full-Stack Developer
-</p>
-
-<p align="center">
-  <i>Building modern web applications with a focus on clean architecture and minimal design.</i>
-</p>
-
 <br>
 
 <div align="center">
