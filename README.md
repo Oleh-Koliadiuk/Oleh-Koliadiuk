@@ -13,7 +13,7 @@
 <img src="chocola-face.gif" alt="Chocola Face" width="32%" align="right">
 
 <p align="left">
-  Hey, I'm Oleh. I'm a 14-year-old developer based in Rivne, Ukraine.
+  Hey, I'm Oleh. I'm a 14-year-old developer based in Ukraine.
 </p>
 
 <p align="left">
