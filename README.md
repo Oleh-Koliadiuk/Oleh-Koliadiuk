@@ -67,9 +67,6 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse !important; width: 100%;">
   <tr style="border: none !important;">
     <td width="50%" align="center" valign="top" style="border: none !important;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Oleh-Koliadiuk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none !important;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleh-Koliadiuk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="100%" alt="Top Languages" />
     </td>
   </tr>
